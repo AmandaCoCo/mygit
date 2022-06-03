@@ -1,0 +1,1 @@
+This is the get-started file about git
